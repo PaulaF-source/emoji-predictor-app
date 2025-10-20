@@ -2,11 +2,11 @@
 
 A user-friendly desktop application that uses a pre-trained BERTweet model to predict the top 3 most likely emojis for a given text.
 
--   **AI-Powered Predictions**: Leverages a fine-tuned BERTweet model to analyze text sentiment.
--   **Interactive UI**: A clean and modern interface built with PyQt6.
--   **Responsive Loading**: A professional splash screen informs the user while the model loads in the background.
--   **Easy to Use**: Simple text input, example buttons, and clear, visual results.
--   **Standalone Application**: Can be packaged into a single executable file for easy distribution.
+-   Leverages a fine-tuned **BERTweet model** to analyze text sentiment.
+-   A clean and modern interface built with **PyQt6**.
+-   A professional **splash screen** informs the user while the model loads in the background.
+-   **Simple text input, example buttons, and clear, visual results.**
+-   Can be packaged into a single executable file for **easy distribution**.
 
 ## Setup and Installation
 
