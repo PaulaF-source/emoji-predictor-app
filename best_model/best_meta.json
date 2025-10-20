@@ -1,0 +1,6 @@
+{
+  "metric_name": "eval_f1_macro",
+  "metric_value": 0.2683655571830725,
+  "global_step": 8376,
+  "epoch": 3.0
+}
