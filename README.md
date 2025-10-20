@@ -1,4 +1,4 @@
-# Tweet Emoji Predictor 🤖✨
+# Tweet Emoji Predictor
 
 A user-friendly desktop application that uses a pre-trained BERTweet model to predict the top 3 most likely emojis for a given text.
 
